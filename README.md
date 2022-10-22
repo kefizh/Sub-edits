@@ -1,1 +1,1 @@
-A collection of all the suubtitles I've made/edited
+A collection of all the subtitles I've made/edited
