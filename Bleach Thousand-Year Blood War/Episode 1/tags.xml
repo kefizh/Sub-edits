@@ -1,0 +1,120 @@
+﻿<?xml version="1.0"?>
+<!-- <!DOCTYPE Tags SYSTEM "matroskatags.dtd"> -->
+<Tags>
+  <Tag>
+    <Targets>
+      <TrackUID>11389592029257837040</TrackUID>
+    </Targets>
+    <Simple>
+      <Name>BPS</Name>
+      <String>7569884</String>
+    </Simple>
+    <Simple>
+      <Name>DURATION</Name>
+      <String>00:23:49.762000000</String>
+    </Simple>
+    <Simple>
+      <Name>NUMBER_OF_FRAMES</Name>
+      <String>34280</String>
+    </Simple>
+    <Simple>
+      <Name>NUMBER_OF_BYTES</Name>
+      <String>1352891643</String>
+    </Simple>
+    <Simple>
+      <Name>_STATISTICS_WRITING_APP</Name>
+      <String>mkvmerge v71.1.0.7 ('Fortitude') 64-bit</String>
+    </Simple>
+    <Simple>
+      <Name>_STATISTICS_TAGS</Name>
+      <String>BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES</String>
+    </Simple>
+  </Tag>
+  <Tag>
+    <Targets>
+      <TrackUID>17198076719767905543</TrackUID>
+    </Targets>
+    <Simple>
+      <Name>BPS</Name>
+      <String>224000</String>
+    </Simple>
+    <Simple>
+      <Name>DURATION</Name>
+      <String>00:23:49.760000000</String>
+    </Simple>
+    <Simple>
+      <Name>NUMBER_OF_FRAMES</Name>
+      <String>44680</String>
+    </Simple>
+    <Simple>
+      <Name>NUMBER_OF_BYTES</Name>
+      <String>40033280</String>
+    </Simple>
+    <Simple>
+      <Name>_STATISTICS_WRITING_APP</Name>
+      <String>mkvmerge v71.1.0.7 ('Fortitude') 64-bit</String>
+    </Simple>
+    <Simple>
+      <Name>_STATISTICS_TAGS</Name>
+      <String>BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES</String>
+    </Simple>
+  </Tag>
+  <Tag>
+    <Targets>
+      <TrackUID>7283191843618001615</TrackUID>
+    </Targets>
+    <Simple>
+      <Name>BPS</Name>
+      <String>32496</String>
+    </Simple>
+    <Simple>
+      <Name>DURATION</Name>
+      <String>00:23:46.990000000</String>
+    </Simple>
+    <Simple>
+      <Name>NUMBER_OF_FRAMES</Name>
+      <String>2000</String>
+    </Simple>
+    <Simple>
+      <Name>NUMBER_OF_BYTES</Name>
+      <String>5796513</String>
+    </Simple>
+    <Simple>
+      <Name>_STATISTICS_WRITING_APP</Name>
+      <String>mkvmerge v71.1.0.7 ('Fortitude') 64-bit</String>
+    </Simple>
+    <Simple>
+      <Name>_STATISTICS_TAGS</Name>
+      <String>BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES</String>
+    </Simple>
+  </Tag>
+  <Tag>
+    <Targets>
+      <TrackUID>11410758629674093952</TrackUID>
+    </Targets>
+    <Simple>
+      <Name>BPS</Name>
+      <String>32504</String>
+    </Simple>
+    <Simple>
+      <Name>DURATION</Name>
+      <String>00:23:46.990000000</String>
+    </Simple>
+    <Simple>
+      <Name>NUMBER_OF_FRAMES</Name>
+      <String>2006</String>
+    </Simple>
+    <Simple>
+      <Name>NUMBER_OF_BYTES</Name>
+      <String>5797875</String>
+    </Simple>
+    <Simple>
+      <Name>_STATISTICS_WRITING_APP</Name>
+      <String>mkvmerge v71.1.0.7 ('Fortitude') 64-bit</String>
+    </Simple>
+    <Simple>
+      <Name>_STATISTICS_TAGS</Name>
+      <String>BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES</String>
+    </Simple>
+  </Tag>
+</Tags>
